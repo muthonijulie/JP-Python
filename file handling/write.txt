@@ -1,0 +1,4 @@
+Hello World!
+It is very cold
+Do you have some coffe?
+Add new line to the file
